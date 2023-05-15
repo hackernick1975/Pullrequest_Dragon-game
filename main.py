@@ -59,3 +59,4 @@ checkCave(caveNumber)
     
 print("Thanks for playing")
 #making changes
+#more changes
