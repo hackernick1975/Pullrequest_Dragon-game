@@ -57,4 +57,4 @@ caveNumber = chooseCave()
 #caveNumber = choosecave()
 checkCave(caveNumber)
     
-print("Thanks for planing")
+print("Thanks for playing")
